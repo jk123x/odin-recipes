@@ -1,0 +1,27 @@
+div {
+    background-color: aqua;
+    color:black;
+    font-size: 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.heading {
+    font-size: 20px;
+    text-align: left;
+    color: black;
+}
+
+.text {
+    font-size: 20px;
+    text-align: left;
+}
+
+.accentuate {
+    font-size: 20px;
+    color: red;
+}
+
+body {
+    background-color: aqua;
+    line-height: 2;
+}
